@@ -1,0 +1,3 @@
+C:/Users/aluno.servidorfatec/Desktop/CODIGOS-1-SEMESTRE/cmake-build-debug/CMakeFiles/CODIGOS_1_SEMESTRE.dir
+C:/Users/aluno.servidorfatec/Desktop/CODIGOS-1-SEMESTRE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aluno.servidorfatec/Desktop/CODIGOS-1-SEMESTRE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
