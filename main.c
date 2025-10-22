@@ -23,7 +23,7 @@ int main(void) {
         printf("\n");
     }
 
-
+printf("digite o valor para posicao [%d][%d]",m,n);
 
 return 0;
 }
